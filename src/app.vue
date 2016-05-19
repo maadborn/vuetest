@@ -1,21 +1,19 @@
 <template>
-  <div id="app">
-    <hello></hello>
-  </div>
+	<div id="app">
+		<hello></hello>
+	</div>
 </template>
 
 <script>
-import Hello from './components/hello/hello.vue'
+	import Hello from './components/hello/hello.vue'
 
-export default {
-  components: {
-    Hello
-  }
-}
+	export default {
+		components: {
+			Hello
+		}
+	}
 </script>
 
-<style>
-body {
-  font-family: Helvetica, sans-serif;
-}
+<style lang="scss">
+	@import "./app.scss";
 </style>

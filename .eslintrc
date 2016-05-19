@@ -11,8 +11,8 @@
     // ],
     "rules": {
         "arrow-body-style": [0, "as-needed"],
-        //"comma-dangle": [2, "only-multiline"],
-        "comma-dangle": [2, "never"],
+        "comma-dangle": [2, "only-multiline"],
+        //"comma-dangle": [2, "never"],
         "indent": [1, "tab"],
 		"no-trailing-spaces": [2, { "skipBlankLines": true }],
         "space-before-function-paren": [2, "never"]
