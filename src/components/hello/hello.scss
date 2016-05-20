@@ -1,5 +1,9 @@
 $hello-color: green;
 
+p {
+	background: green;
+}
+
 .hello {
-	color: $hello-color;
+	color: red; //$hello-color;
 }
