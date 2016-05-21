@@ -1,6 +1,5 @@
 <style lang="scss">
 	@import "./hello.scss";
-	p { color: blue; }
 </style>
 
 <template>
